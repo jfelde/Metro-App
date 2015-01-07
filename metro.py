@@ -7,7 +7,7 @@ import time
 import cPickle
 
 stations = []
-for i in range(0,115):
+for i in range(0,116):
     url_str = "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=" + str(i)
     url = urllib2.urlopen(url_str)
     lines = url.readlines()
