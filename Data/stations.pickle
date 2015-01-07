@@ -1,0 +1,542 @@
+(lp1
+(lp2
+I1
+aS'Metro Center'
+p3
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=1'
+p4
+aa(lp5
+I4
+aS'Farragut North'
+p6
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=4'
+p7
+aa(lp8
+I6
+aS'Dupont Circle'
+p9
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=6'
+p10
+aa(lp11
+I7
+aS'Woodley Park-Zoo/Adams Morgan'
+p12
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=7'
+p13
+aa(lp14
+I8
+aS'Cleveland Park'
+p15
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=8'
+p16
+aa(lp17
+I9
+aS'Van Ness-UDC'
+p18
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=9'
+p19
+aa(lp20
+I10
+aS'Tenleytown-AU'
+p21
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=10'
+p22
+aa(lp23
+I11
+aS'Friendship Heights'
+p24
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=11'
+p25
+aa(lp26
+I12
+aS'Bethesda'
+p27
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=12'
+p28
+aa(lp29
+I13
+aS'Medical Center'
+p30
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=13'
+p31
+aa(lp32
+I14
+aS'Grosvenor-Strathmore'
+p33
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=14'
+p34
+aa(lp35
+I15
+aS'White Flint'
+p36
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=15'
+p37
+aa(lp38
+I16
+aS'Twinbrook'
+p39
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=16'
+p40
+aa(lp41
+I17
+aS'Rockville'
+p42
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=17'
+p43
+aa(lp44
+I18
+aS'Shady Grove'
+p45
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=18'
+p46
+aa(lp47
+I21
+aS'Gallery Pl-Chinatown'
+p48
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=21'
+p49
+aa(lp50
+I23
+aS'Judiciary Square'
+p51
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=23'
+p52
+aa(lp53
+I25
+aS'Union Station'
+p54
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=25'
+p55
+aa(lp56
+I26
+aS'Rhode Island Ave-Brentwood'
+p57
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=26'
+p58
+aa(lp59
+I27
+aS'Brookland-CUA'
+p60
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=27'
+p61
+aa(lp62
+I28
+aS'Fort Totten'
+p63
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=28'
+p64
+aa(lp65
+I29
+aS'Takoma'
+p66
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=29'
+p67
+aa(lp68
+I31
+aS'Silver Spring'
+p69
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=31'
+p70
+aa(lp71
+I32
+aS'Forest Glen'
+p72
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=32'
+p73
+aa(lp74
+I33
+aS'Wheaton'
+p75
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=33'
+p76
+aa(lp77
+I34
+aS'Glenmont'
+p78
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=34'
+p79
+aa(lp80
+I36
+aS'McPherson Square'
+p81
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=36'
+p82
+aa(lp83
+I38
+aS'Farragut West'
+p84
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=38'
+p85
+aa(lp86
+I40
+aS'Foggy Bottom-GWU'
+p87
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=40'
+p88
+aa(lp89
+I41
+aS'Rosslyn'
+p90
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=41'
+p91
+aa(lp92
+I42
+aS'Arlington Cemetery'
+p93
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=42'
+p94
+aa(lp95
+I43
+aS'Pentagon'
+p96
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=43'
+p97
+aa(lp98
+I44
+aS'Pentagon City'
+p99
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=44'
+p100
+aa(lp101
+I45
+aS'Crystal City'
+p102
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=45'
+p103
+aa(lp104
+I47
+aS'Braddock Road'
+p105
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=47'
+p106
+aa(lp107
+I48
+aS'King St-Old Town'
+p108
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=48'
+p109
+aa(lp110
+I49
+aS'Eisenhower Avenue'
+p111
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=49'
+p112
+aa(lp113
+I50
+aS'Huntington'
+p114
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=50'
+p115
+aa(lp116
+I53
+aS'Federal Triangle'
+p117
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=53'
+p118
+aa(lp119
+I54
+aS'Smithsonian'
+p120
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=54'
+p121
+aa(lp122
+I58
+aS'Federal Center SW'
+p123
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=58'
+p124
+aa(lp125
+I59
+aS'Capitol South'
+p126
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=59'
+p127
+aa(lp128
+I60
+aS'Eastern Market'
+p129
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=60'
+p130
+aa(lp131
+I61
+aS'Potomac Ave'
+p132
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=61'
+p133
+aa(lp134
+I63
+aS'Stadium-Armory'
+p135
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=63'
+p136
+aa(lp137
+I64
+aS'Minnesota Ave'
+p138
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=64'
+p139
+aa(lp140
+I65
+aS'Deanwood'
+p141
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=65'
+p142
+aa(lp143
+I66
+aS'Cheverly'
+p144
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=66'
+p145
+aa(lp146
+I67
+aS'Landover'
+p147
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=67'
+p148
+aa(lp149
+I68
+aS'New Carrollton'
+p150
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68'
+p151
+aa(lp152
+I70
+aS'Mt Vernon Sq 7th St-Convention Center'
+p153
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=70'
+p154
+aa(lp155
+I72
+aS'Shaw-Howard U'
+p156
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=72'
+p157
+aa(lp158
+I73
+aS'U Street/African-Amer Civil War Memorial/Cardozo'
+p159
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=73'
+p160
+aa(lp161
+I75
+aS'Columbia Heights'
+p162
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=75'
+p163
+aa(lp164
+I76
+aS'Georgia Ave-Petworth'
+p165
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=76'
+p166
+aa(lp167
+I77
+aS'West Hyattsville'
+p168
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=77'
+p169
+aa(lp170
+I78
+aS"Prince George's Plaza"
+p171
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=78'
+p172
+aa(lp173
+I79
+aS'College Park-U of MD'
+p174
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=79'
+p175
+aa(lp176
+I80
+aS'Greenbelt'
+p177
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=80'
+p178
+aa(lp179
+I81
+aS'Archives-Navy Memorial-Penn Quarter'
+p180
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=81'
+p181
+aa(lp182
+I82
+aS"L'Enfant Plaza"
+p183
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=82'
+p184
+aa(lp185
+I83
+aS'Waterfront'
+p186
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=83'
+p187
+aa(lp188
+I84
+aS'Navy Yard-Ballpark'
+p189
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=84'
+p190
+aa(lp191
+I85
+aS'Anacostia'
+p192
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=85'
+p193
+aa(lp194
+I86
+aS'Congress Heights'
+p195
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=86'
+p196
+aa(lp197
+I87
+aS'Naylor Road'
+p198
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=87'
+p199
+aa(lp200
+I88
+aS'Suitland'
+p201
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=88'
+p202
+aa(lp203
+I89
+aS'Branch Ave'
+p204
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=89'
+p205
+aa(lp206
+I90
+aS'Benning Road'
+p207
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=90'
+p208
+aa(lp209
+I91
+aS'Capitol Heights'
+p210
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=91'
+p211
+aa(lp212
+I92
+aS'Addison Road-Seat Pleasant'
+p213
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=92'
+p214
+aa(lp215
+I93
+aS'Ronald Reagan Washington National Airport'
+p216
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=93'
+p217
+aa(lp218
+I94
+aS'Van Dorn Street'
+p219
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=94'
+p220
+aa(lp221
+I95
+aS'Franconia-Springfield'
+p222
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=95'
+p223
+aa(lp224
+I96
+aS'Court House'
+p225
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=96'
+p226
+aa(lp227
+I97
+aS'Clarendon'
+p228
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=97'
+p229
+aa(lp230
+I98
+aS'Virginia Square-GMU'
+p231
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=98'
+p232
+aa(lp233
+I99
+aS'Ballston-MU'
+p234
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=99'
+p235
+aa(lp236
+I100
+aS'East Falls Church'
+p237
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=100'
+p238
+aa(lp239
+I101
+aS'West Falls Church-VT/UVA'
+p240
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=101'
+p241
+aa(lp242
+I102
+aS'Dunn Loring-Merrifield'
+p243
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=102'
+p244
+aa(lp245
+I103
+aS'Vienna/Fairfax-GMU'
+p246
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=103'
+p247
+aa(lp248
+I107
+aS'Southern Avenue'
+p249
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=107'
+p250
+aa(lp251
+I108
+aS'NoMa-Gallaudet U'
+p252
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=108'
+p253
+aa(lp254
+I109
+aS'Largo Town Center'
+p255
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=109'
+p256
+aa(lp257
+I110
+aS'Morgan Boulevard'
+p258
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=110'
+p259
+aa(lp260
+I111
+aS'McLean'
+p261
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=111'
+p262
+aa(lp263
+I112
+aS'Tysons Corner'
+p264
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=112'
+p265
+aa(lp266
+I113
+aS'Greensboro'
+p267
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=113'
+p268
+aa(lp269
+I114
+aS'Spring Hill'
+p270
+aS'http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=114'
+p271
+aa.
